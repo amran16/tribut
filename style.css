@@ -1,0 +1,30 @@
+h1{
+   font-family: Sans-serif;
+   font-size: 80px;
+   font-weight: 800;
+   color: #2998E4;
+  margin-left:20%;
+ }
+
+h2{
+   font-family: cursive;
+   font-size: 40px;
+   font-weight: 500;
+   color: #FF0000;
+ margin-left:20%;
+ }
+
+
+body {
+ background-color: #FFA500;
+}
+
+.header
+{
+ margin-right:50%;
+}
+.list
+{
+
+ width:100%;
+}
